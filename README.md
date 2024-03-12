@@ -1,2 +1,2 @@
-# Tea-demo
+# berry
 Basic demonstration app
